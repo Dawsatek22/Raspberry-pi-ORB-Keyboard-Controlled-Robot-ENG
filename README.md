@@ -16,6 +16,6 @@ python programming ,using VNC viewer(i use that for the project),3d printing,
 screwing bolts,
 
              3D PARTS NEEDED (PLA,PETG is optional)
-            stl files are in the github link :
+            stl files are in the github link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot/tree/main/stl
 
 1X  dt22-72-d22.2to4wheelerplate.stl
