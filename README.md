@@ -2,6 +2,8 @@
 
          This a raspberry 4/ZeroW robot (using parts from orb : https://openroboticplatform.com/ ) 
          controlled with Keyboards using VNC Viewer.
+         video link is here : 
+         youtube: https://youtu.be/fuu9n4QBzs8
          
   WARNING!
 
