@@ -42,13 +42,13 @@ laptop/pc (i use ubuntu to control the robot)
 2x Yellow tt motor dc motors  https://www.amazon.com/Aoicrie-Electric-Magnetic-Engine%EF%BC%8CDIY-Vibration/dp/B083BDW3FD/ref=sr_1_5?crid=349ZR0DUA9P8&dib=eyJ2IjoiMSJ9.uG6IbMpcZ6yn_IUI48RYAwYWpvm7KXne5uj6PJtAGCt2fbDAEp_Wsaa-UFRJ-gK1DtmKW8w3-U-3ukH2teve4dWQvwHxLJe5ZPPaBvWKiJnU4_eR_cIjRO7uszjvk_RF0hfkI980S0ZdR2aoHYL43bJ8puZkgoj_cZ61hUYsOddSFvt2E2NXGUfzPq5svUwOU1kJJHFAgbHMp5ZT5eUsv9KGoHponTXKksFrB_6vTqID0nIJ2QqBv0uQrh_gKeo5Lu-eYuff4SgMcUQwoIF43vsNngYxxwhjI_AdTFaVT1w.9H6kH1E6HZsgKn-DiH0ZUh5icqpNx20WqmCNqYLPLYo&dib_tag=se&keywords=yellow+dc+motor&qid=1710238445&sprefix=yellow+dc%2Caps%2C153&sr=8-5. 
 
 2x wheels https://www.tinytronics.nl/en/mechanics-and-actuators/parts/wheels/spare-wheel-auto-kit-diy.
-
+2x m2.5 *10+6 spacer
 2x 15mm or longer female  XH2.54 cable(to be soldered on yellow tt motor).
 
  M3 nuts, allen wrench or screwdriver for bolts(metal ones recommended) :
-2x m2.5 *10+6
 4x M2.5 6mm.
 4x M3 30mm.
+6x M3 12
 
                          OPTIONAL:
 
