@@ -45,7 +45,7 @@ laptop/pc (i use ubuntu to control the robot)
 
 2x wheels https://www.tinytronics.nl/en/mechanics-and-actuators/parts/wheels/spare-wheel-auto-kit-diy.
 2x m2.5 *10+6 spacer
-2x 15mm or longer female  XH2.54 cable(to be soldered on yellow tt motor).
+2x 15cm or longer female  XH2.54 cable(to be soldered on yellow tt motor).
 
  M3 nuts, allen wrench or screwdriver for bolts(metal ones recommended) :
 4x M2.5 6mm.
