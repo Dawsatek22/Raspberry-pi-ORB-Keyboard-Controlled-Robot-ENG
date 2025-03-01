@@ -1,11 +1,11 @@
- SUMMARY:
+#SUMMARY:
 
          This a raspberry 4/ZeroW robot (using parts from orb : https://openroboticplatform.com/ ) 
          controlled with Keyboards using VNC Viewer.
          video link is here : 
          youtube: https://youtu.be/fuu9n4QBzs8
          
-  WARNING!
+  #WARNING!
 
 This project is ment to use  with ORB (openroboticsplatform) 3d printed you can find on my github repository Link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot.
 parts  : https://openroboticplatform.com/ (you can add also more partsfrom your projects there).
@@ -17,7 +17,7 @@ look first if you can afford the projects parts (just advice).
 
 the python code can look weird(see for yourself i dont know if it is the hardware or the software).
 
-               RECOMMENDED SKILLS REQUIRED     
+               #RECOMMENDED SKILLS REQUIRED     
 python programming ,using VNC viewer(i use that for the project),3d printing,
 screwing bolts,soldering(for dc motor an raspberry Pi Zero/ZeroW). Installing the robot-hat Module more info here : https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/index.html .
 
@@ -33,7 +33,7 @@ Or the ORB (openroboticplatform) link is here : https://openroboticplatform.com/
               2x   nikodembartnik-11-tt_motor_wheel.3mf https://openroboticplatform.com/part:11.
               2x (if you have TPU) Two part wheel for TT motor 65mm https://openroboticplatform.com/part:46.
 
-         THINGS YOU NEED:
+         #THINGS YOU NEED:
 #links are for reference.
 laptop/pc (i use ubuntu to control the robot)
 
